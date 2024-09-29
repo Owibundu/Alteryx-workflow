@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New Logic&amp;Excel Test_Business Controller_ZP.xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Contractnr" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Client name&quot;" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+            <Field name="&quot;Client Type&quot;" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+            <Field name="Investment" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="Average by term" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Contract term&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Ins. premium p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Ins. elsewhere p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Ins. casco p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Road ass. p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;RV p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Admin p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Fuel admin p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Damage admin p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Man fee p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Road Tax&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Depr. p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Depr. Reg. Tax/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Interest p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Maintenance p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Tyres p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Radio tax p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Tariff margin p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Dues p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Proj. Vehicle p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;General Reserv. p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="&quot;Lease (excl fuel) p/mnth&quot;" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="Double" />
+            <Field name="Make" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+            <Field name="Model" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+            <Field name="Description" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+            <Field name="&quot;Comm. date&quot;" size="255" source="File: C:\Users\jjew\OneDrive\Počítač\New Logic&amp;Excel Test_Business Controller_ZP.xlsx|||`Data$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="162" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Investment" selected="True" type="Int64" size="8" />
+            <SelectField field="Make" selected="True" />
+            <SelectField field="Model" selected="True" />
+            <SelectField field="&quot;Comm. date&quot;" selected="True" type="Date" size="10" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="270" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Investment]*30" field="Reveneu" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Reveneu = [Investment]*30
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="354" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeFormat([&quot;Comm. date&quot;],&quot;%B&quot;)" field="Month" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Month = DateTimeFormat(["Comm. date"],"%B")
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="438" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Investment" selected="False" />
+            <SelectField field="&quot;Comm. date&quot;" selected="False" />
+            <SelectField field="Reveneu" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="642" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\jjew\OneDrive\Počítač\Alteryx\Skuska 43.xlsx|||PT</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Skuska 43.xlsx
+Query=PT</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="522" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Make" action="GroupBy" rename="Make" />
+            <SummarizeField field="Reveneu" action="Sum" rename="Sum_Reveneu" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Workflow 21</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="84c3fca7-093b-49cb-9e52-ec9840ec8219" />
+      <Telemetry>
+        <PreviousWorkflowId value="5864c162-a002-4771-92f4-e0d762419cf3" />
+        <OriginWorkflowId value="5864c162-a002-4771-92f4-e0d762419cf3" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
